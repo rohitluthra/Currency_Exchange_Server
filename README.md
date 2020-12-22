@@ -1,8 +1,3 @@
-# Homework 5 - CSE 320 - Fall 2019
-#### Professor Eugene Stark
-
-### **Due Date: Friday 12/6/2019 @ 11:59pm**
-
 ## Introduction
 
 The goal of this assignment is to become familiar with low-level POSIX
